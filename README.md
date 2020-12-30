@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Frontend Developer with React.js
+- Backend Developer with Python (Flask)
+
 <!--
 **johancastillo/johancastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
